@@ -1,18 +1,16 @@
-# [sinchi](https://t.me/tgMember)
+# [sinchi](https://t.me/ariacomp)
 
 
 the best bot in telegram for broadcasting and add seen. The New version and professional of tabchi bot. base in new telegram-cli.
 
-<p align="center"> <img class="td" style="vertical-align: middle;" src="https://github.com/sajjad-021/KingPKG/blob/master/logo.jpg" alt="" width="500" height="260" /></p>
 
 ***
 
-[![https://github.com/tgMember/sinchi](https://img.shields.io/badge/license-MiT-blue.svg)](https://github.com/tgMember/sinchi)
-[![http://t.me/sajjad_021](https://img.shields.io/badge/Telegram-sajjad__021-blue.svg)](http://t.me/sajjad_021)
-[![https://github.com/tgMember/sinchi](https://img.shields.io/badge/%F0%9F%92%AC_GitHub-sinchi-green.svg)](https://github.com/tgMember/sinchi)
+[![https://github.com/ariacomp/sinchi](https://img.shields.io/badge/license-MiT-blue.svg)](https://github.com/ariacomp/sinchi)
+[![http://t.me/sajjad_021](https://img.shields.io/badge/Telegram-sajjad__021-blue.svg)](http://t.me/ariacomp)
+[![https://github.com/ariacomp/sinchi](https://img.shields.io/badge/%F0%9F%92%AC_GitHub-sinchi-green.svg)](https://github.com/ariacomp/sinchi)
 [![http://tgmember.cf](https://img.shields.io/badge/webpage-tgMember-ff69b4.svg)](http://tgmember.cf)
 
-[![https://t.me/tgMember](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-tgMember-blue.svg)](https://t.me/tgMember)
 
 
 TeleGram-CLI based broadcasting bot!
