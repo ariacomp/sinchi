@@ -1,1 +1,1 @@
-# [sinchi](https://t.me/ariacomp)
+# [sinchi](https://t.me/itgoyair)
